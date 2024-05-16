@@ -1,0 +1,24 @@
+#	####################################################
+#	СИНТАКСИЧЕСКАЯ РАСКРАСКА ДЛЯ БИБИЛИОТЕКИ:
+#	iarduino_REG_595
+#	####################################################
+#	ТИПЫ ДАННЫХ:							   (KEYWORD1)
+	iarduino_REG_595	KEYWORD1
+#	####################################################
+#	МЕТОДЫ И ФУНКЦИИ:						   (KEYWORD2)
+	setPulseWidth	KEYWORD2
+	setInvertSCL	KEYWORD2
+	setInvertDAT	KEYWORD2
+	setSegments	KEYWORD2
+	setClearBefore	KEYWORD2
+	setAlignLeft	KEYWORD2
+	begin	KEYWORD2
+	clear	KEYWORD2
+	sendBit	KEYWORD2
+	sendByte	KEYWORD2
+	sendArray	KEYWORD2
+	sendChar	KEYWORD2
+	latch	KEYWORD2
+	print	KEYWORD2
+#	####################################################
+#	КОНСТАНТЫ:								   (LITERAL1)
